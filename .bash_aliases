@@ -1,0 +1,5 @@
+alias gl="git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset%C(auto)%s%Creset %Cgreen(%cr)%Creset %Cblue<%aN>%Creset' --abbrev-commit"
+alias gs="git status"
+alias gb="git branch"
+alias gd="git diff"
+alias ga="git add"
